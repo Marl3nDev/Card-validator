@@ -1,0 +1,47 @@
+.card {
+    margin: 0 auto;
+    width: 200px;
+    border: 1px solid black;
+    padding: 15px 15px 25px;
+
+    border-radius: 10px;
+    
+
+}
+
+.title{
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.icons-img {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.payment-icon {
+    width: 30px;
+    margin: 0 5px;
+
+    filter: brightness(0.3);
+}
+
+.card-center {
+    display: flex;
+    gap: 5px;
+}
+
+.text-code {
+    box-sizing: border-box;
+    width: 80%;
+    font-size: 10px;
+}
+
+.btn {
+   padding: 0 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    border-radius: 5px;
+}
