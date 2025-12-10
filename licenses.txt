@@ -1,0 +1,35 @@
+Image Licenses
+==============
+
+Payment System Icons:
+
+- Visa Icon: Source - https://icon-icons.com/ru/icon/visa-payment-method/60549
+  Author: RoundIcons
+  License: Free for commercial use
+  URL: https://icon-icons.com/ru/icon/visa-payment-method/60549
+
+- Mastercard Icon: Source - https://icon-icons.com/ru/icon/mastercard-payment-method/60554
+  Author: RoundIcons
+  License: Free for commercial use
+  URL: https://icon-icons.com/ru/icon/mastercard-payment-method/60554
+
+- Mir Icon: Source - https://logo-teka.com/mir/
+  License: Free for commercial use
+  URL: https://logo-teka.com/mir/
+  
+- American Express Icon: Source - https://icon-icons.com/ru/icon/american-express-payment-method/60519
+  Author: RoundIcons
+  License: Free for commercial use
+  URL: https://icon-icons.com/ru/icon/american-express-payment-method/60519
+
+- Discover Icon: Source - https://icon-icons.com/ru/icon/discover-payment-method/142757
+  Author: Stuart Colville
+  License: GPL
+  URL: https://icon-icons.com/ru/icon/discover-payment-method/142757
+
+Search Icon:
+- Search Icon: Source - https://icon-icons.com/ru/icon/search-magnifier/145939
+  Author: Javis V. Pérez
+  License: Apache 2.0
+  URL: https://icon-icons.com/ru/icon/search-magnifier/145939
+
